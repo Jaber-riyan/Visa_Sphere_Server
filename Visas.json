@@ -1,0 +1,128 @@
+[
+  {
+    "countryImage": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "countryName": "France",
+    "visaType": "Tourist Visa",
+    "processingTime": "5-7 Business Days",
+    "requiredDocuments": [
+      "Valid passport",
+      "Visa application form",
+      "Recent passport-sized photograph",
+      "Travel itinerary",
+      "Hotel reservation"
+    ],
+    "description": "Visit France for tourism, business, or family visits.",
+    "ageRestriction": "18-65 years",
+    "fee": "$90",
+    "validity": "90 Days",
+    "applicationMethod": "Online"
+  },
+  {
+    "countryImage": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_Germany.svg",
+    "countryName": "Germany",
+    "visaType": "Business Visa",
+    "processingTime": "3-5 Business Days",
+    "requiredDocuments": [
+      "Valid passport",
+      "Visa application form",
+      "Business invitation letter",
+      "Company bank statement",
+      "Health insurance"
+    ],
+    "description": "Business visa for attending conferences, meetings, or other professional activities.",
+    "ageRestriction": "25-60 years",
+    "fee": "$120",
+    "validity": "6 Months",
+    "applicationMethod": "Online"
+  },
+  {
+    "countryImage": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_Japan.svg",
+    "countryName": "Japan",
+    "visaType": "Tourist Visa",
+    "processingTime": "5-7 Business Days",
+    "requiredDocuments": [
+      "Valid passport",
+      "Visa application form",
+      "Recent passport-sized photograph",
+      "Hotel reservation",
+      "Travel itinerary"
+    ],
+    "description": "A visa for exploring Japan's historic sites and attractions.",
+    "ageRestriction": "No age limit",
+    "fee": "$80",
+    "validity": "90 Days",
+    "applicationMethod": "Embassy"
+  },
+  {
+    "countryImage": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Italy.svg",
+    "countryName": "Italy",
+    "visaType": "Schengen Visa",
+    "processingTime": "10-15 Business Days",
+    "requiredDocuments": [
+      "Valid passport",
+      "Visa application form",
+      "Recent passport-sized photograph",
+      "Travel insurance",
+      "Flight reservation"
+    ],
+    "description": "For short stays in Italy within the Schengen area.",
+    "ageRestriction": "18-60 years",
+    "fee": "$100",
+    "validity": "90 Days",
+    "applicationMethod": "Embassy"
+  },
+  {
+    "countryImage": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Flag_of_South_Korea.svg",
+    "countryName": "South Korea",
+    "visaType": "Business Visa",
+    "processingTime": "5-7 Business Days",
+    "requiredDocuments": [
+      "Valid passport",
+      "Visa application form",
+      "Business invitation letter",
+      "Proof of employment",
+      "Company bank statement"
+    ],
+    "description": "Business visa for attending meetings, conferences, or business negotiations.",
+    "ageRestriction": "No age limit",
+    "fee": "$90",
+    "validity": "6 Months",
+    "applicationMethod": "Online"
+  },
+  {
+    "countryImage": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_United_Kingdom.svg",
+    "countryName": "United Kingdom",
+    "visaType": "Student Visa",
+    "processingTime": "15-20 Business Days",
+    "requiredDocuments": [
+      "Valid passport",
+      "Visa application form",
+      "Offer letter from a UK educational institution",
+      "Proof of funds",
+      "English proficiency test results"
+    ],
+    "description": "Student visa for pursuing higher education in the UK.",
+    "ageRestriction": "No age limit",
+    "fee": "$150",
+    "validity": "Up to 5 Years",
+    "applicationMethod": "Online"
+  },
+  {
+    "countryImage": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Bangladesh.svg",
+    "countryName": "Bangladesh",
+    "visaType": "Tourist Visa",
+    "processingTime": "5-7 Business Days",
+    "requiredDocuments": [
+      "Valid passport",
+      "Visa application form",
+      "Recent passport-sized photograph",
+      "Hotel booking",
+      "Travel itinerary"
+    ],
+    "description": "Visit Bangladesh for tourism or cultural exploration.",
+    "ageRestriction": "No age limit",
+    "fee": "$60",
+    "validity": "30 Days",
+    "applicationMethod": "Embassy"
+  }
+]
